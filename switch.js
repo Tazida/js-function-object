@@ -30,4 +30,6 @@ switch (color) {
   case "yellow":
     console.log("you are a fatima friend");
     break;
+  default:
+    console.log("you are a kala friend");
 }
